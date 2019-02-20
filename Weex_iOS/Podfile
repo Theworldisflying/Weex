@@ -1,0 +1,14 @@
+platform :ios, ‘9.0’
+inhibit_all_warnings!
+def common
+    pod 'WeexSDK'
+    pod 'AFNetworking', '~> 3.0'
+    pod 'WXDevtool'
+    pod 'SDWebImage'
+    pod 'WeexGcanvas'
+    pod 'WeexPluginLoader'
+end
+
+target ‘Weex_iOS’ do
+    common
+end

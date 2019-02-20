@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.taobao.gcanvas.adapters:img_fresco-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/img_fresco-1.0.1.aar/45127ad99cc4f2e22d6ee79345b94f05/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/img_fresco-1.0.1.aar/45127ad99cc4f2e22d6ee79345b94f05/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../.." />
+            <option value="$PROJECT_DIR$/../../../../android" />
+            <option value="$PROJECT_DIR$/../../../../android/adapters" />
+            <option value="$PROJECT_DIR$/../../../../android/adapters/bridge_adapter" />
+            <option value="$PROJECT_DIR$/../../../../android/adapters/gcanvas_imageloader_fresco" />
+            <option value="$PROJECT_DIR$/../../../../android/adapters/gcanvas_imageloader_picasso" />
+            <option value="$PROJECT_DIR$/../../../../android/bridge_spec" />
+            <option value="$PROJECT_DIR$/../../../../android/gcanvas_library" />
+            <option value="$PROJECT_DIR$/../../.." />
+            <option value="$PROJECT_DIR$/../.." />
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../../../weex-bridge" />
+            <option value="$PROJECT_DIR$/../../../weex-bridge/android" />
+            <option value="$PROJECT_DIR$/../../../weex-bridge/android/weex_bridge" />
+            <option value="$PROJECT_DIR$/../../../weex-bridge/android/weex_playground" />
+            <option value="$PROJECT_DIR$/../../../../core" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

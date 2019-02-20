@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../GCanvas.iml" filepath="$PROJECT_DIR$/../../../../GCanvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/GCanvas-android.iml" filepath="$PROJECT_DIR$/../../../../android/GCanvas-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/adapters/adapters.iml" filepath="$PROJECT_DIR$/../../../../android/adapters/adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/adapters/bridge_adapter/bridge_adapter.iml" filepath="$PROJECT_DIR$/../../../../android/adapters/bridge_adapter/bridge_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/bridge_spec/bridge_spec.iml" filepath="$PROJECT_DIR$/../../../../android/bridge_spec/bridge_spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../bridges.iml" filepath="$PROJECT_DIR$/../../../bridges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../core/core.iml" filepath="$PROJECT_DIR$/../../../../core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/adapters/gcanvas_imageloader_fresco/gcanvas_imageloader_fresco.iml" filepath="$PROJECT_DIR$/../../../../android/adapters/gcanvas_imageloader_fresco/gcanvas_imageloader_fresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/adapters/gcanvas_imageloader_picasso/gcanvas_imageloader_picasso.iml" filepath="$PROJECT_DIR$/../../../../android/adapters/gcanvas_imageloader_picasso/gcanvas_imageloader_picasso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../android/gcanvas_library/gcanvas_library.iml" filepath="$PROJECT_DIR$/../../../../android/gcanvas_library/gcanvas_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../react-native-bridge.iml" filepath="$PROJECT_DIR$/../../react-native-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-native-gcanvas.iml" filepath="$PROJECT_DIR$/../react-native-gcanvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-native-gcanvas-android.iml" filepath="$PROJECT_DIR$/react-native-gcanvas-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../weex-bridge/weex-bridge.iml" filepath="$PROJECT_DIR$/../../../weex-bridge/weex-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../weex-bridge/android/weex-bridge-android.iml" filepath="$PROJECT_DIR$/../../../weex-bridge/android/weex-bridge-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../weex-bridge/android/weex_bridge/weex_bridge.iml" filepath="$PROJECT_DIR$/../../../weex-bridge/android/weex_bridge/weex_bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../weex-bridge/android/weex_playground/weex_playground.iml" filepath="$PROJECT_DIR$/../../../weex-bridge/android/weex_playground/weex_playground.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+    <!--</style>-->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="TransparentDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--style也有点问题，没有隐藏title，实际使用时会多一条线（线的颜色取决于accentColor;这里进行隐藏-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="TransparentLoadingDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--style也有点问题，没有隐藏title，实际使用时会多一条线（线的颜色取决于accentColor;这里进行隐藏-->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

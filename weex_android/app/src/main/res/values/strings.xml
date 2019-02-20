@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">apps_weex</string>
+
+    <string name="next_btn">跳转</string>
+    <string name="back_btn">返回</string>
+
+    <string name="http_weex">http</string>
+</resources>

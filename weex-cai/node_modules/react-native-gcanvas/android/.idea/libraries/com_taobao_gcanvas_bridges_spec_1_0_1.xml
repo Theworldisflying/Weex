@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.taobao.gcanvas.bridges:spec-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/spec-1.0.1.aar/1b5a4f5218d539d5a71dbfc9ab83e006/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/spec-1.0.1.aar/1b5a4f5218d539d5a71dbfc9ab83e006/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
